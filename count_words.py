@@ -1,14 +1,13 @@
 import subprocess
 import time
 import requests
-from interface import app  # Import the Flask app from flask_app.py
 
 # Start the Flask app
 if __name__ == '__main__':
     flask_process = subprocess.Popen(['python', 'interface.py'])
 
     # Introduce a delay to allow the Flask app to start
-    time.sleep(5)  # Adjust the delay time as needed
+    time.sleep(5)
 
     # Make a request to the Flask app
     url = 'http://127.0.0.1:5000/events/countWords'
