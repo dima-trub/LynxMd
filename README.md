@@ -1,6 +1,6 @@
 **Running Instructions :**
 
-To run the project, follow these steps:
+To run the project follow these steps:
 ```
 To check the statistics by counting events by type, run the count_by_event_type.py script.
 To check the statistics by counting words, run the count_words.py script.
