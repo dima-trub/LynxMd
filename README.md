@@ -1,4 +1,4 @@
-----------------------------------running_instructions------------------------------------------------
+Running Instructions:
 
 
 
@@ -10,8 +10,7 @@ To check the statistics by counting words , you need run the count_words.py scri
 
 
 
---------------------------------Flow scripts short description------------------------------------------------------------------
-
+Flow scripts short description :
 
 
 Producer script :This script provides a way to simulate the generation of events based on configurations provided in a JSON file.
@@ -36,10 +35,7 @@ Count Words script : This script acts as a client to fetch word appearance data 
 
  
 
------------------------------------------------Three Improvements------------------------------
-
-
-
+Three Improvements:
 
 1.Error Handling
 2.Optimization
