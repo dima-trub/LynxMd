@@ -45,10 +45,10 @@ This script acts as a client to fetch word appearance data from a Flask API endp
 
 **Three Improvements :**
 ```
-1.Error Handling: Implement more robust error handling mechanisms in the scripts to handle various edge cases and exceptions gracefully, providing informative error messages.
+1.Error Handling - Implement more robust error handling mechanisms in the scripts to handle various edge cases and exceptions gracefully, providing informative error messages.
 
-2.Optimization: Optimize code where possible for better performance, such as minimizing unnecessary computations, reducing redundant code, and improving algorithm efficiency.
+2.Optimization - Optimize code where possible for better performance, such as minimizing unnecessary computations, reducing redundant code, and improving algorithm efficiency.
  Additionally, consider optimizing resource usage, especially in long-running processes, to minimize memory and CPU utilization.
 
-3.Documentation: Enhance documentation across the project, including inline comments, docstrings, and README updates, to provide comprehensive guidance on usage, setup, and maintenance of the scripts.
+3.Documentation - Enhance documentation across the project, including inline comments, docstrings, and README updates, to provide comprehensive guidance on usage, setup, and maintenance of the scripts.
 ```
